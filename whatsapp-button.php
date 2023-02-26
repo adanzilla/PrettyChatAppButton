@@ -35,3 +35,5 @@ add_action( 'init', [ 'WAButton', 'init' ] );
 add_action( 'wp_footer', [ "WAButton", 'enqueue_scripts' ] );
 add_action( 'wp_footer', [ "WAButton", 'enqueue_styles' ] );
 add_action( 'wp_footer', [ "WAButton", 'localize_script' ] );
+
+add_action( 'customize_register', [ "WAButton", 'customize_register' ] );
