@@ -1,6 +1,6 @@
 jQuery(document).ready(function($) {
 	
-	console.log('Ready WAButton, Go Baby!', wabutton_ajax.conf);
+	console.log('Ready WAButton, Go Baby!');
 
 	var button_whatsapp = jQuery('<a>');
 	

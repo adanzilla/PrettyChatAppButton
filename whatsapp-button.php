@@ -7,7 +7,7 @@
  * Author URI:      http://adanzilla.com
  * Text Domain:     whatsapp-button
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         1.0.0
  *
  * @package         Whatsapp_Button
  */
@@ -20,7 +20,7 @@ if ( !function_exists( 'add_action' ) ) {
 }
 
 
-define( 'WABUTTON_VERSION', '0.0.1' );
+define( 'WABUTTON_VERSION', '1.0.0' );
 define( 'WABUTTON_MINIMUM_WP_VERSION', '5.4' );
 define( 'WABUTTON_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'WABUTTON_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
