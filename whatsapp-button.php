@@ -2,7 +2,7 @@
 /**
  * Plugin Name:     Whatsapp Button
  * Plugin URI:      http://adanzilla.com/whatsapp-button
- * Description:     Agrega un botón de Acceso Rápido a WahatsApp
+ * Description:     Adds a fixed WhatsApp button to you WordPress
  * Author:          adanzilla
  * Author URI:      http://adanzilla.com
  * Text Domain:     whatsapp-button
