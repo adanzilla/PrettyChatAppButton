@@ -1,11 +1,15 @@
 jQuery(document).ready(function($) {
 	
-	console.log('Ready WAButton, Go Baby!', wabutton_ajax);
+	console.log('Ready WAButton, Go Baby!');
 
 	var button_whatsapp = jQuery('<a>');
 	
 	button_whatsapp
 		.addClass('whatsapp-button')
+		.prop({ 
+			'href' : 'https://wa.me/'+wabutton_ajax.conf.number+'?text=' + wabutton_ajax.conf.message,
+			'target' : '_blank'
+		})
 		.css({
 			'position' : 'fixed',
 			'bottom' : wabutton_ajax.conf.bottom,
