@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:     Whatsapp Button
+ * Plugin Name:     Pretty Chat App Button
  * Plugin URI:      http://adanzilla.com/whatsapp-button
  * Description:     Adds a fixed WhatsApp button to you WordPress
  * Author:          adanzilla
