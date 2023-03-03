@@ -12,8 +12,8 @@
   -ms-animation: pulse-whatsapp 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
   animation: pulse-whatsapp 2s infinite cubic-bezier(0.66, 0, 0, 1);
 }
-/* line 18, ../sass/main.scss */
-* body a.stickyWhatsapp img {
+/* line 17, ../sass/main.scss */
+* body a.whatsapp-button img {
   max-width: 100%;
 }
 @-webkit-keyframes pulse-whatsapp {

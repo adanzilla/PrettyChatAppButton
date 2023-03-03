@@ -13,10 +13,11 @@
 				-moz-animation: pulse-whatsapp 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
 				-ms-animation: pulse-whatsapp 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
 				animation: pulse-whatsapp 2s infinite cubic-bezier(0.66, 0, 0, 1);
-			}
 
-			&.stickyWhatsapp img {
-				max-width: 100%
+				img {
+					max-width: 100%
+				}
+
 			}
 
 			@-webkit-keyframes pulse-whatsapp {
