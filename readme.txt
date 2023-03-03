@@ -3,13 +3,13 @@ Contributors: adanzilla
 Donate link: https://adanzilla.com
 Tags: WhatsApp Sticky Button, Simple WhatsApp Chat Button, Chat Button, WhatsApp Button, Whatsapp Chat
 Requires at least: 4.5
-Tested up to: 5.9
+Tested up to: 6.0.1
 Requires PHP: 5.6
 Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Display the beautiful WhatsApp Sticky Button on the WordPress frontend.
+Displays a beautiful WhatsApp Sticky Button on the WordPress frontend.
 
 == Description ==
 
