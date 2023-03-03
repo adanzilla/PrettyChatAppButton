@@ -21,7 +21,7 @@ if ( !function_exists( 'add_action' ) ) {
 
 
 define( 'WABUTTON_VERSION', '1.0.0' );
-define( 'WABUTTON_MINIMUM_WP_VERSION', '5.4' );
+define( 'WABUTTON_MINIMUM_WP_VERSION', '4.5' );
 define( 'WABUTTON_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'WABUTTON_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'WABUTTON_DELETE_LIMIT', 100000 );
