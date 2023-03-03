@@ -1,0 +1,30 @@
+* {
+	body {
+		a {
+			&.whatsapp-button {
+				box-shadow: 0 0 0 0 rgba(85, 205, 108, 0.3);
+				color: #fff;
+				display: block;
+				padding: 0;
+				background-color: transparent;
+				border-radius: 50%;
+				z-index: 999;
+				-webkit-animation: pulse-whatsapp 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+				-moz-animation: pulse-whatsapp 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+				-ms-animation: pulse-whatsapp 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+				animation: pulse-whatsapp 2s infinite cubic-bezier(0.66, 0, 0, 1);
+
+				img {
+					max-width: 100%
+				}
+
+			}
+
+			@-webkit-keyframes pulse-whatsapp {
+				to {
+					box-shadow: 0 0 0 45px rgba(85, 205, 108, 0);
+				}
+			}
+		}		
+	}
+}
