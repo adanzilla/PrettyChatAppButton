@@ -1,4 +1,4 @@
-=== Whatsapp Button ===
+=== Pretty Chat App Button ===
 Contributors: adanzilla
 Donate link: https://adanzilla.com
 Tags: WhatsApp Sticky Button, Simple WhatsApp Chat Button, Chat Button, WhatsApp Button, Whatsapp Chat
@@ -21,6 +21,6 @@ If you like this plugin and is useful for you, please support us by giving [5 st
 
 == Installation ==
 
-1. Upload `whatsapp-button` to the `/wp-content/plugins/` directory
+1. Upload `pretty-chat-app-button` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Set the WhatsApp number and the message in Dashboard > Apparence > Customize > WhatsApp Button.
