@@ -15,10 +15,6 @@ Displays a beautiful WhatsApp Sticky Button on the WordPress frontend.
 
 Using the most simple way to setup a pretty button (with a pulsating effect) of WhatsApp You will be able to add it to your WordPress.
 
-= Give Support =
-
-If you like this plugin and is useful for you, please support us by giving [5 star rating](https://wordpress.org/support/plugin/whatsapp-button/reviews/#new-post) .
-
 == Installation ==
 
 1. Upload `pretty-chat-app-button` to the `/wp-content/plugins/` directory
